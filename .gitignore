@@ -1,0 +1,9 @@
+# 忽略所有照片和视频文件
+*.jpg *.jpeg *.png *.gif *.bmp *.tiff *.tif *.webp *.heic *.heif
+*.JPG *.JPEG *.PNG *.GIF *.BMP *.TIFF *.TIF *.WEBP *.HEIC *.HEIF
+*.mp4 *.mov *.avi *.mkv *.mts *.m2ts
+*.MP4 *.MOV *.AVI *.MKV *.MTS *.M2TS
+
+# macOS 系统文件
+.DS_Store
+._*
